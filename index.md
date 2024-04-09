@@ -13,7 +13,7 @@
   3. Elotes
 
 **Past New Years Resolutions**
-- [x] Do one pull-up
+- [x] Do a pull-up
 - [ ] Backflip
 - [ ] Hit 50 mph while snowboarding
 
