@@ -7,8 +7,13 @@
 * Chinese American Student Association [(CASA)](https://www.casaucsd.com/)
 
 
-Top 3 Favorite Foods
+**Top 3 Favorite Foods**
   1. Spaghetthi
   2. Seafood Boil
   3. Elotes
+
+**Past New Years Resolutions**
+- [x] Do one pull-up
+- [ ] Backflip
+- [ ] Hit 50 mph while snowboarding
 
