@@ -4,4 +4,4 @@
 
 I am involved in 
 * ECE Undergraduate Student Council
-* Chinese American Student Association
+* Chinese American Student Association [(CASA)](https://www.casaucsd.com/board-members)
