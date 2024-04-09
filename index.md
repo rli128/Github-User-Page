@@ -2,7 +2,7 @@
 ## UCSD *Computer Engineering c/o 2025*
 
 ## About Me
-I am involved in 
+** I am Involved In **
 * ECE Undergraduate Student Council [(ECE USC)](https://eceusc.ucsd.edu/)
 * Chinese American Student Association [(CASA)](https://www.casaucsd.com/)
 
