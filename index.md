@@ -1,2 +1,2 @@
 # Ricky Li
-## UCSD Computer Engineer '25
+## UCSD Computer Engineer *'25*
