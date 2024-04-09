@@ -18,3 +18,8 @@
 - [ ] Backflip
 - [ ] Hit 50 mph while snowboarding
 
+Top Commands
+```
+ls
+cd
+```
